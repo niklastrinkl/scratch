@@ -1,4 +1,4 @@
-package org.acme;
+package at.htlleonding.scratch;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
